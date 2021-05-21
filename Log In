@@ -10,3 +10,4 @@ Verify that there is a limit on the total number of unsuccessful login attempts 
 Verify sure that when entering the password is encrypted and make sure that it can be seen by clicking on the "eye" icon (critical path)
 Verify if a user cannot enter the characters more than the specified range in each field: username and password (extended test) 
 Verify that the "Login" button is working (smoke)
+Verify working "Login" button with enter key (smoke)
